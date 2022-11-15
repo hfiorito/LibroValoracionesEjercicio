@@ -1,0 +1,8 @@
+Hola Mariano, necesitamos crear un libro electrónico de valoraciones para poder almacenar y poder hacer consultas
+sobre las valoraciones recibidas. También querríamos poder hacer cálculos y promedios entre todas las valoraciones recibidas
+
+Las valoraciones serán en úmros decimales, que puden ir de 0 a 5, debemos poder listar las valoraciones desde la mas baja,
+desde la mas alta y calcular el promedio, la mínima y la máxima.
+
+Gracias 
+Saludos
